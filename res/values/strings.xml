@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidFirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="linkedin_api">LinkedIn API</string>
+    <string name="get_profile">Get Profile</string>
+    <string name="profile_results">Profile Results</string>
+    <string name="injected_results">Injected for Test</string>
+
+</resources>
